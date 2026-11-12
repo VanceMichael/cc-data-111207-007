@@ -1,0 +1,6 @@
+{
+  "pages": {
+    "/v1": "<html><table id=\"samples\"><thead><tr><th rowspan=\"2\" id=\"site\">采样点</th><th colspan=\"2\" id=\"n\">总氮 mg/L</th></tr><tr><th id=\"am\">上午</th><th id=\"pm\">下午</th></tr></thead><tbody><tr><th id=\"a\">甲站</th><td headers=\"a n am\">0.2<sup>1</sup></td><td headers=\"a n pm\">&lt;0.05</td></tr><tr><th>乙站</th><td>0</td><td>—</td></tr></tbody></table><p>1：复测值</p></html>",
+    "/v2": "<html><table id=\"samples\"><tr><th>采样点</th><th>总氮 μg/L 上午</th></tr><tr><th>甲站</th><td>200<table><tr><td>仅供说明</td></tr></table></td></tr></table></html>"
+  }
+}
